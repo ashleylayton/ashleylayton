@@ -13,11 +13,15 @@
 - <b>Javascript</b>
   - Coming soon
 - <b>Website</b>
-  - Coming soon
 - <b>Database</b>
-  - Coming soon
 - <b>Software Engineering</b>
-  - Coming soon
+- <b>Mobile Application Development</b>
+- <b>Software Engineering</b>
+- <b>Cloud Project</b>
+- <b>Software Security/API</b>
+- <b>User Interface</b>
+- <b>User Experience</b>
+- <b>Version Control</b>
   
 <h2>💻 Certifications:</h2>
 
