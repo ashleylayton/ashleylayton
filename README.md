@@ -1,7 +1,45 @@
-### Hi there 👋
+<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleylayton">Programmer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Data Structures and Algorithms Practice</b>
+  - Coming soon
+- <b>Python</b>
+  - Coming soon
+- <b>Java</b>
+  - Coming soon
+- <b>Javascript</b>
+  - Coming soon
+- <b>Website</b>
+  - Coming soon
+- <b>Database</b>
+  - Coming soon
+- <b>Software Engineering</b>
+  - Coming soon
+  
+<h2>💻 Certifications:</h2>
+
+- <b>ITIL Foundation Certification</b>
+  - Coming soon
+- <b>CompTIA Project+</b>
+  - Coming soon
+- <b>AWS Certified Cloud Practitioner </b>
+  - Coming soon
+- <b>WGU Certificate</b>
+  - Back End Developer
+  - Front End Developer
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**ashleylayton/ashleylayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
