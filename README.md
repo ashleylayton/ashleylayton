@@ -14,9 +14,7 @@
   - Coming soon
 - <b>Website</b>
 - <b>Database</b>
-- <b>Software Engineering</b>
 - <b>Mobile Application Development</b>
-- <b>Software Engineering</b>
 - <b>Cloud Project</b>
 - <b>Software Security/API</b>
 - <b>User Interface</b>
