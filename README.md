@@ -12,7 +12,7 @@
   - Coming soon
 - <b>Javascript</b>
   - Coming soon
-- <b>Website</b>
+- <b>Website/React</b>
 - <b>Database</b>
 - <b>Mobile Application Development</b>
 - <b>Cloud Project</b>
