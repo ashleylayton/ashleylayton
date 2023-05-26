@@ -2,34 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation]
-- <b>Data Structures and Algorithms Practice</b>
-  - Coming soon
-- <b>Python</b>
-  - Coming soon
-- <b>Java</b>
-  - Coming soon
-- <b>Javascript</b>
-  - Coming soon
-- <b>Website/React</b>
-- <b>Database</b>
-- <b>Mobile Application Development</b>
-- <b>Cloud Project</b>
-- <b>Software Security/API</b>
-- <b>User Interface</b>
-- <b>User Experience</b>
+- <b>HTML</b>
+- 
 - <b>Version Control</b>
   
 <h2>💻 Certifications:</h2>
 
-- <b>ITIL Foundation Certification</b>
-  - Coming soon
-- <b>CompTIA Project+</b>
-  - Coming soon
-- <b>AWS Certified Cloud Practitioner </b>
-  - Coming soon
-- <b>WGU Certificate</b>
   - Back End Developer
   - Front End Developer
 
@@ -41,7 +19,7 @@
 [linkedin]: https://linkedin.com/in/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashleylayton/ashleylayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
