@@ -3,13 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML</b>
-- 
+- <b>CSS</b>
 - <b>Version Control</b>
   
-<h2>💻 Certifications:</h2>
-
-  - Back End Developer
-  - Front End Developer
 
 
 <h2> 🤳 Connect with me:</h2>
